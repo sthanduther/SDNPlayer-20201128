@@ -12,10 +12,10 @@ function foo() {
 }
 
 function playscript() {
-	echo "<script src="player.js"></scrpt>";
+	echo "<script src='player.js'></scrpt>";
 }
 
 function stylesheet() {
-	include 'podplayer.css';
+	echo 'podplayer.css';
 }
 ?>

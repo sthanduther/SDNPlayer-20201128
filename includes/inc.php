@@ -12,7 +12,7 @@ function foo() {
 }
 
 function playscript() {
-	echo "<script src='player.js'></scrpt>";
+	echo "<script src='player.js'></script>";
 }
 
 function stylesheet() {
